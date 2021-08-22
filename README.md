@@ -1,7 +1,5 @@
 # 万物皆可diy！ 
 
-## 介绍
-
 ### **开源的**
 
 开源一些一般不开源但应该开源的东东
@@ -27,7 +25,7 @@ diy一些一般不去diy但应该去diy的东东
 
 ---
 
-## 相关
+#### 相关
 
 1. [publiclab.org](http://publiclab.org/) 开源DIY硬件工具和环保行动的维基社群
 2. [zh.moegirl.org.cn](http://zh.moegirl.org.cn/) 万物皆可萌的维基
