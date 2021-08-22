@@ -31,7 +31,8 @@ diy一些一般不去diy但应该去diy的东东
 2. [zh.moegirl.org.cn](http://zh.moegirl.org.cn/) 万物皆可萌的维基
 3. [wikihow.com](http://wikiHow.com) 以及百度经验：一般意义上的实用指南，不过有极少数的很怪异的指南
 4. [actionvillager.com](http://actionvillager.com/) 开放式协作学习平台，涉及社区营造在内的多个领域。侧重点不是指南，而是组队做项目，以项目活动信息为基本单元
-5. 各种 GitHub Lists
+5. [wiki.swarma.org](https://wiki.swarma.org) 集智百科：国内最早的研究人工智能、复杂系统的科学社区
+6. 各种 GitHub Lists
 
 ---
 
