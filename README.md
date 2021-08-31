@@ -29,12 +29,13 @@
 6. [github.com/LCTT/TranslateProject](https://github.com/LCTT/TranslateProject) “Linux中国” 的翻译组，“负责从国外优秀媒体翻译 Linux 相关的技术、资讯、杂文等内容。已经拥有几百名活跃成员，并欢迎更多的 Linux 志愿者加入我们的团队。”
 7. [706](https://706er.com/) 这个维基由706孵化，感谢方荣使这一项目成为可能！
    ‌
-## License 使用许可
+## Use License & Contributor Covenant 使用许可和贡献者公约
 
-这个维基采用了和维基百科相同的创作公用协议：CC BY-SA 4.0 ![img](https://licensebuttons.net/l/by-sa/4.0/80x15.png)
+[贡献者公约（通用）](https://www.contributor-covenant.org/zh-cn/version/2/0/code_of_conduct/)
+
+这个维基采用了和维基百科相同的创作公用协议：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) ![img](https://licensebuttons.net/l/by-sa/4.0/80x15.png)
 
 本许可协议为“自由文化作品（Free Cultural Works）”所接受。
 
 ![img](https://creativecommons.org/wp-content/uploads/2013/09/seal.png)
-
 
