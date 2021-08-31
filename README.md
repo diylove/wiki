@@ -15,11 +15,6 @@
 
 [状态 Milestone](https://github.com/diylove/wiki/milestones)：一个指南有一个状态，该栏留空代表只有行动的参考概念、相关案例链接、灵感等，还不是一个指南。
 
-1. （空）
-2. 🌿 指南
-3. 🌸 已发布的指南（开花）
-4. 🍇 已有实践的指南（结果）
-
 [发布项目 Project](https://github.com/diylove/wiki/projects)：一个指南有多个发布平台，可以是网站、艺术家书、自媒体如公众号、✉️ 邮件剪报 Newsletter、小册子、卡片盒、课程、一个GitHub Awesome List等等。已创建的项目包括
 
 [如何参与这个维基？](CONTRIBUTING.md)
