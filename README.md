@@ -4,7 +4,7 @@
 
 为了让不是程序员的大部分人也可以参与进来，我们目前把Issues（上方一栏）用作是我们的论坛和维基。
 
-[指南条目 Issue](https://github.com/diylove/wiki/issues)：每个维基条目（Issue）都是一个指南：一种可执行的行动/活动（不同于维基百科或数字花园，一个条目不是一个名称或概念）。每个Issue有一个负责人 Assignees（不是作者），通常是所属发布项目 Project 的负责人。
+[指南条目 Issue](https://github.com/diylove/wiki/issues)：每个维基条目（Issue）都是一个指南：一种可执行的行动/活动（不同于维基百科或数字花园，一个条目不是一个名称或概念）。每个Issue有一个指派编辑 Assignees（不是作者），通常是所属发布项目 Project 的负责人。
 
 [标签 Label](https://github.com/diylove/wiki/labels)：一个指南有多个标签。
 
