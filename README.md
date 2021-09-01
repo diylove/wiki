@@ -23,11 +23,11 @@
 7. 《全球概览》：另一种《全球概览》可以是什么样的？
 8. [706](https://706er.com/) 这个维基由706孵化，感谢方荣使这一项目成为可能！
    ‌
-## Use License & Contributor Covenant 使用许可和贡献者公约
+## License & Contributor Covenant 使用许可和贡献者公约
 
 [贡献者公约（通用）](https://www.contributor-covenant.org/zh-cn/version/2/0/code_of_conduct/)
 
-这个维基采用了和维基百科相同的创作公用协议：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) ![img](https://licensebuttons.net/l/by-sa/4.0/80x15.png)
+这个维基采用了和维基百科相同的创作公用协议：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) ![img](https://licensebuttons.net/l/by-sa/4.0/80x15.png)。引用这个维基或从其它相同协议引用至此维基时注明来源，示例：本文基于CC BY-SA 4.0协议使用了 github.com/diylove/wiki 的条目“diy一张躺在床上画的自画像”，对原文有改动。
 
 本许可协议为“自由文化作品（Free Cultural Works）”所接受。
 
