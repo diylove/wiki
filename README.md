@@ -1,11 +1,4 @@
-# diy💔
-
-自由的个体💔自主的社区/社群/社会
-
-自主的行动💔自由的知识和想象
-
-- 如何开源一些一般不开源但应该开源的东东？比如一种开源的当代艺术是什么样的？如果说人人都是艺术家，如何让人人都真正有具体方法不断地*成为*生活和社会前线的艺术家（avant garde artists）？
-- 如何diy一些一般不去diy但应该去diy的东东？diy如何不只是自娱自乐？比如一种让非专业人士成为社区行动者的活动diy指南是什么样的？另一种《全球概览》可以是什么样的？
+这是一个diy活动指南：从自主的知识和想象走向自主的活动，从自主的个体走向自主的社区、社群和社会。 
 
 ## Wiki 维基
 
@@ -13,11 +6,11 @@
 
 [标签 Label](https://github.com/diylove/wiki/labels)：一个指南有多个标签。
 
-[状态 Milestone](https://github.com/diylove/wiki/milestones)：一个指南有一个状态，该栏留空代表只有行动的参考概念、相关案例链接、灵感等，还不是一个指南。
+[阶段 Milestone](https://github.com/diylove/wiki/milestones)：一个指南有一个阶段，该栏留空代表只有行动的参考概念、相关案例链接、灵感等，还不是一个指南。
 
-[发布项目 Project](https://github.com/diylove/wiki/projects)：一个指南有多个发布平台，可以是网站、艺术家书、自媒体如公众号、✉️ 邮件剪报 Newsletter、小册子、卡片盒、课程、一个GitHub Awesome List等等。
+[项目 Project](https://github.com/diylove/wiki/projects)：一个指南有多个发布平台，可以是网站、艺术家书、自媒体如公众号、✉️ 邮件剪报 Newsletter、小册子、卡片盒、课程、一个GitHub Awesome List等等。你可以利用这个维基加入或独立开展一个项目。
 
-[如何参与这个维基？](CONTRIBUTING.md)
+[💗 点击这里开始参与](CONTRIBUTING.md)
 
 ## Recommendations 相关推荐
 
@@ -26,8 +19,9 @@
 3. [wikihow.com](http://wikihow.com/) 以及百度经验：一般意义上的实用指南，有少数的很怪异的指南。
 4. [actionvillager.com](http://actionvillager.com/)  开放式协作学习平台，涉及社区营造在内的多个领域。侧重点不是指南，而是组队做项目，以项目活动信息为基本单元
 5. [wiki.swarma.org](https://wiki.swarma.org/)  集智百科是国内最早的研究人工智能、复杂系统的科学社区
-6. [github.com/LCTT/TranslateProject](https://github.com/LCTT/TranslateProject) “Linux中国” 的翻译组，“负责从国外优秀媒体翻译 Linux 相关的技术、资讯、杂文等内容。已经拥有几百名活跃成员，并欢迎更多的 Linux 志愿者加入我们的团队。”
-7. [706](https://706er.com/) 这个维基由706孵化，感谢方荣使这一项目成为可能！
+6. [github.com/LCTT/TranslateProject](https://github.com/LCTT/TranslateProject) “Linux中国” 的翻译组，“负责从国外优秀媒体翻译 Linux 相关的技术、资讯、杂文等内容。已经拥有几百名活跃成员，并欢迎更多的 Linux 志愿者加入我们的团队。”、
+7. 《全球概览》：另一种《全球概览》可以是什么样的？
+8. [706](https://706er.com/) 这个维基由706孵化，感谢方荣使这一项目成为可能！
    ‌
 ## Use License & Contributor Covenant 使用许可和贡献者公约
 
@@ -38,4 +32,7 @@
 本许可协议为“自由文化作品（Free Cultural Works）”所接受。
 
 ![img](https://creativecommons.org/wp-content/uploads/2013/09/seal.png)
+
+---
+MADE WITH 💔 BY CONTRIBUTORS
 
