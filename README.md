@@ -27,10 +27,10 @@
 
 ## 特点
 
-- 💬 语言：面向公众、面向实践者、面向本领域之外的人
-- 🆓 资金：简单纯粹，没有任何支出和收入，所有人都是志愿者。而项目 Project 有独立的资金结构，比如三个人选取这里的内容出版一本书，完全自行投入和自行分成。详见使用许可。
-- 🔗 内外链接：通过大量的标签和URL链接不同行业/学科、不同机构/公司、不同地方和时间的活动指南。这个维基主要的作用就是链接。
-- 🗃️ 稳定存档：个人层面，你可以随时下载或复制整个维基。网络层面，这个维基存储在世界上最大的开源平台GitHub，在全球多地的数据中心有多份副本。同时有另外两处非营利组织托管的存档：[Internet Archive](https://web.archive.org/web/*/https://github.com/diylove/wiki/issues/) 和 [Software Heritage](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/diylove/wiki) （我们还加入了GitHub Archive Program，意味着几年后它会以五百年寿命的介质存储在北极）。不同于平均寿命只有几年的各种国内互联网商业平台或独立站点，你所贡献的知识可以持续存在，比一个文档、一个APP、一个网站、一个机构、一个人更长久。
+- 💬 语言：面向实践、面向本领域之外的公众
+- 🆓 资金：简单纯粹，没有任何支出和收入，所有人都是志愿者。而项目部分有独立的资金结构，比如三个人选取这里的内容出版一本书，完全自行决定投入和分成。详见使用许可。
+- 🔗 内外链接：通过大量的标签和URL链接不同行业和学科、不同机构和公司、不同地方和时间。
+- 🗃️ 存档功能：个人层面，你可以随时下载或复制整个维基。网络层面，这个维基存储在世界上最大的开源平台GitHub，在全球多地的数据中心有多份副本。同时有另外两处非营利组织托管的存档：[Internet Archive](https://web.archive.org/web/*/https://github.com/diylove/wiki/issues/) 和 [Software Heritage](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/diylove/wiki) （我们还加入了GitHub Archive Program，意味着几年后它会以五百年寿命的介质存储在北极）。不同于平均寿命只有几年的各种国内互联网商业平台或独立站点，你所贡献的知识可以稳定存在，比一个文档、一个APP、一个网站、一个机构、一个人更长久。
 
 ## 参与
 
@@ -58,7 +58,7 @@
 
 社会和公益平台
 - [706](https://706er.com/) 这个维基由706孵化，感谢方荣使这一项目成为可能！
-- [行动村](http://actionvillager.com/) 开放式协作学习平台，涉及社区营造在内的多个领域。侧重点不是指南，而是组队做项目，以项目活动信息为基本单元
+- [行动村](http://actionvillager.com/) 开放式协作学习平台，涉及社区营造在内的多个领域。侧重点不是指南，而是组队做项目实践，以项目活动信息为基本单元
 
 维基
 - [云游 Co-Lib](https://www.notion.so/wuqibuyou/Co-Lib-1b8f05553a804b16bff149361cffe017) 社会议题的维基
@@ -69,7 +69,8 @@
 - [🔗 内部链接：diy一座数字花园 ⛲️](https://github.com/diylove/wiki/issues/28)
 
 开源社群
-- [PublicLab](http://publiclab.org/)  开源DIY硬件工具和环保行动的维基社群
+- [PublicLab](http://publiclab.org/) 开源DIY硬件工具和环保行动的维基社群
+- [g0v](https://g0v.tw/) “自台灣發起、多中心化的公民科技社群「零時政府」，以資訊透明、開放成果、開放協作為核心，透過群眾草根的力量來關心公共事務。”
 - [“Linux中国” 的翻译组](https://github.com/LCTT/TranslateProject) “负责从国外优秀媒体翻译 Linux 相关的技术、资讯、杂文等内容。已经拥有几百名活跃成员，并欢迎更多的 Linux 志愿者加入我们的团队。”、
 - [🔗 内部链接：diy一个开源项目](https://github.com/diylove/wiki/issues/27)
    
