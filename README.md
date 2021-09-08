@@ -64,6 +64,7 @@
 - [云游 Co-Lib](https://www.notion.so/wuqibuyou/Co-Lib-1b8f05553a804b16bff149361cffe017) 社会议题的维基
 - [萌娘百科](http://zh.moegirl.org.cn/)  万物皆可萌的维基
 - [集智百科](https://wiki.swarma.org/)  国内最早的研究人工智能、复杂系统的科学社区
+- [Local Wiki](localwiki.org) 本地维基，以城市和社区为单位
 - [🔗 内部链接：diy一座数字花园 ⛲️](https://github.com/diylove/wiki/issues/28)
 
 指南
