@@ -56,22 +56,24 @@
 
 ## 友情链接 🔗
 
-社会和公益平台
+学习和活动社群
 - [706](https://706er.com/) 这个维基由706孵化，感谢方荣使这一项目成为可能！
 - [行动村](http://actionvillager.com/) 开放式协作学习平台，涉及社区营造在内的多个领域。侧重点不是指南，而是组队做项目实践，以项目活动信息为基本单元
 
-维基
+维基社群
 - [云游 Co-Lib](https://www.notion.so/wuqibuyou/Co-Lib-1b8f05553a804b16bff149361cffe017) 社会议题的维基
 - [萌娘百科](http://zh.moegirl.org.cn/)  万物皆可萌的维基
 - [集智百科](https://wiki.swarma.org/)  国内最早的研究人工智能、复杂系统的科学社区
-- [WikiHow](http://wikihow.com/) 以及百度经验：一般意义上的实用指南，有少数的很怪异的指南。
-- 《全球概览》：今天的《全球概览》可以是什么样的？另一种《全球概览》可以是什么样的？
 - [🔗 内部链接：diy一座数字花园 ⛲️](https://github.com/diylove/wiki/issues/28)
+
+指南
+- [WikiHow](http://wikihow.com/) 以及百度经验等同类网站：一般意义上的实用指南，有少数的很怪异的指南。
+- 《全球概览》：今天的《全球概览》可以是什么样的？另一种《全球概览》可以是什么样的？
 
 开源社群
 - [PublicLab](http://publiclab.org/) 开源DIY硬件工具和环保行动的维基社群
 - [g0v](https://g0v.tw/) “自台灣發起、多中心化的公民科技社群「零時政府」，以資訊透明、開放成果、開放協作為核心，透過群眾草根的力量來關心公共事務。”
-- [“Linux中国” 的翻译组](https://github.com/LCTT/TranslateProject) “负责从国外优秀媒体翻译 Linux 相关的技术、资讯、杂文等内容。已经拥有几百名活跃成员，并欢迎更多的 Linux 志愿者加入我们的团队。”、
+- [“Linux中国” 的翻译组](https://github.com/LCTT/TranslateProject) 以及各种字幕组 “负责从国外优秀媒体翻译 Linux 相关的技术、资讯、杂文等内容。已经拥有几百名活跃成员，并欢迎更多的 Linux 志愿者加入我们的团队。”、
 - [🔗 内部链接：diy一个开源项目](https://github.com/diylove/wiki/issues/27)
    
   
