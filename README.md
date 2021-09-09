@@ -72,6 +72,7 @@
 - 《全球概览》：今天的《全球概览》可以是什么样的？另一种《全球概览》可以是什么样的？
 
 开源社群
+- [Civic Tech Field Guide](https://civictech.guide/) 公民科技大黄页
 - [PublicLab](http://publiclab.org/) 开源DIY硬件工具和环保行动的维基社群
 - [g0v](https://g0v.tw/) “自台灣發起、多中心化的公民科技社群「零時政府」，以資訊透明、開放成果、開放協作為核心，透過群眾草根的力量來關心公共事務。”
 - [“Linux中国” 的翻译组](https://github.com/LCTT/TranslateProject) 以及各种字幕组 “负责从国外优秀媒体翻译 Linux 相关的技术、资讯、杂文等内容。已经拥有几百名活跃成员，并欢迎更多的 Linux 志愿者加入我们的团队。”、
