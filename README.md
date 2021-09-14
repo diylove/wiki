@@ -1,6 +1,10 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=diylove.wiki)
 
-## Structure 维基结构
+## 简介
+
+https://diylove.github.io/wiki/
+
+## Structure 内部结构
 
 我们把上方Issues一栏用作维基。
 
