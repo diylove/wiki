@@ -145,4 +145,3 @@
 [2]. 受启发于forem团队的wen z，感谢askender的修改建议：
 [https://www.forem.com/future/](https://www.forem.com/future/)
 
-#. 以上文档为09/18/2021的版本，最新版本位于 [https://github.com/diylove/wiki/](https://github.com/diylove/wiki/)
