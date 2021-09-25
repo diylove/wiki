@@ -2,9 +2,9 @@
 
 > 斯蒂格勒坚信，手上打磨什么工具，就会得到什么未来。未来是社会雕塑的结果，是我们的作品。这是人人真正的工作和作品 —— 发明工作，像艺术家那样做艺术品改造工作环境，进而改造社会。……阿伦特《人的条件》说：“现代人缺失的正是劳动的公共性。” 在公共性里，我才生产我自己，因而生产我要的社会。没得到这样劳动经验的人，是奴隶。<sup>[1]</sup>
 
-## 🌐 Background 背景 💔 & ❤️
+## Background 背景 
 
-<details><summary>展开</summary>
+<details><summary> 💔 & ❤️</summary>
 
 开源世界依旧活跃，但是开源的初衷是为了每个人都普遍通过技术受益。开源世界依旧聚焦于让开发者受益，而不顾及全世界其它人是否能够受益。这是个问题。开发者知道，从安卓到服务器IT最底层常常都是开源软件，但是对于开发者之外的所有人、开发者之外的各种社区和社群，开源依旧距离遥远。开源地写底层软件是一项高尚的事业，但是这些东西没有直接连接到数据库、知识库、图书馆……<sup>[2]</sup>
 
@@ -22,14 +22,14 @@
 
 </details>
 
-## 💡 Introduction 这个维基的介绍
+## Introduction 这个维基的介绍
 
 **我们正在建立一个小小的独立公共数据库，其技术和内容都是开源的。** 不同于有技术门槛的开源软件，在这里，不是开发者的每个人都可以直接贡献一个活动的指南（source code），每个人也都可以直接实践这个活动（deploy/execute）。
 
 **它的形式是一个维基，维基的每个条目是一个diy指南：各领域的实践活动的指南**：diy一场声音实验、diy一种社区货币、diy一场邻里茶话会、diy一个家庭、diy一个主题读书会……一些原本不被diy的东东可以在这里被diy，一些原本不开源的东东可以在这里开源。
 
 
-## ✨ Features 这个维基的功能
+## Features 这个维基的功能
 
 ### **🗃️ 档案**
 
@@ -65,9 +65,9 @@
 
 参考Pinterest，把不同独立的小站点的图片引用并集结成合集（board），点击图片可以进入到原站点阅读全文。
 
-## 💌 Contributing 参与这个维基
+## Contributing 参与这个维基
 
-定位：
+**定位：**
 
 ✅ 跨领域的线上小社群
 
@@ -79,18 +79,13 @@
 
 ❌ 宽泛的客观知识（如百度百科、维基百科）
 
-### 项目
+**例子：**
 
-
-4. 内部项目：diy我们的工具 🔧
-5. 独立项目：diy线下社区营造 ✍️
-6. 独立项目：diy前卫艺术 ✍️
-
-举个例子吧！也许你是一名行为艺术家，展览和活动都是临时的，你的作品零碎地雪藏在几本展览册子里，但你相信你的作品不应只是摆在家里和美术馆的私人财产，你相信人人都是艺术家，从而决定以创作公用协议发布你的作品，以及因各种原因没有实施的方案（参考《要空间方案展——局部档案》）。除了发布在孤岛式的个人作品集网站和商业围墙花园如微信中，你还可以提交到这个维基。你的艺术作品像维基百科的条目一样成为宽广互联网和开源世界的一部分，产生许许多多意料之中和意想不到的跨领域的链接 🔗 ——一个作品像一条鱼被放生回河流，开始了自己的生命和生命的繁衍。原本你只做了一次的行为艺术，也许会被一个社工看到和学习，在远方一个社区空间中被一群儿童重演……
+也许你是一名行为艺术家，展览和活动都是临时的，你的作品零碎地雪藏在几本展览册子里，但你相信你的作品不应只是摆在家里和美术馆的私人财产，你相信人人都是艺术家，从而决定以创作公用协议发布你的作品，以及因各种原因没有实施的方案（参考《要空间方案展——局部档案》）。除了发布在孤岛式的个人作品集网站和商业围墙花园如微信中，你还可以提交到这个维基。你的艺术作品像维基百科的条目一样成为宽广互联网和开源世界的一部分，产生许许多多意料之中和意想不到的跨领域的链接 🔗 ——一个作品像一条鱼被放生回河流，开始了自己的生命和生命的繁衍。原本你只做了一次的行为艺术，也许会被一个社工看到和学习，在远方一个社区空间中被一群儿童重演……
 
 或者也许你是一名社区工作者，原本你的做过和想做的活动静静地躺在自己电脑文件夹里，无数在全国各地各种社区的实践者也都有无数经验和计划，这一切都分散四处。你决定贡献你发明的社区营造活动并署名，分门别类地整理存储在维基，还可以加上你的公众号的二维码 🔗，让其它人有相似爱好的人关注到你或和你交流。你也可能在维基中发现原本自己想都想不到的活动，在自己的工作中应用……
 
-除了加入以上项目，你也可以考虑发起新的独立项目，如diy你的工作（自由职业者指南）……
+除了你可以加入已有项目，也可以考虑发起新的独立项目，如diy你的工作（自由职业者指南）……
 
 比如如果你在一个素食组织工作，你就可以发起一个diy素食行动指南项目，既可以用于机构本身工作，也可以开放给其它领域的人；
 
@@ -104,11 +99,14 @@
 
 比如如果你觉得全世界都应该做东北人，衣食住行方方面面都可以指南、都有民族志档案，那你可以做一个diy东北人的项目……
 
-点击这里或阅读原文填写报名表：[https://chilipepper.io/form/xhot-red-fresnos-1743816a-28d3-47b9-a3c9-0bb76b78b1d4](https://chilipepper.io/form/xhot-red-fresnos-1743816a-28d3-47b9-a3c9-0bb76b78b1d4)
+## Structure & Governance 内容和自治结构
 
-## 👬 Governance 自治结构
+成为成员
+1. [报名]((https://chilipepper.io/form/xhot-red-fresnos-1743816a-28d3-47b9-a3c9-0bb76b78b1d4))
+2. 注册GitHub账户并通过邮件验证（如果还没有）
+3. @ma [正式成员](https://github.com/orgs/diylove/people)
 
-**项目（Project）** 项目是维基内部协作的主要方式。条目是零碎的，而每个项目有一个主题，一个指南条目可隶属多个项目。
+[项目（Project）](https://github.com/diylove/wiki/projects)。条目是零碎的，而每个项目有一个主题，一个指南条目可隶属多个项目。
 
 **每个项目**有一个负责人，每个项目是独立的，自行决策、分工、行动。
 
@@ -124,11 +122,12 @@
 
 ## Contributors 贡献者
 
-![Metrics](https://metrics.lecoq.io/2jojo?template=classic&repositories.affiliations=%22%22&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&followup=1&discussions=1&followup.sections=user&config.timezone=Asia%2FShanghai&config.display=columns)
+<img src="https://metrics.lecoq.io/2jojo?template=classic&repositories.affiliations=%22%22&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&followup=1&discussions=1&followup.sections=user&config.timezone=Asia%2FShanghai" alt="Metrics" width="100%" height=50px>
 
-![Metrics](https://metrics.lecoq.io/liexiangrui?template=classic&repositories.affiliations=%22%22&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&followup=1&discussions=1&followup.sections=user&config.timezone=Asia%2FShanghai&config.display=columns)
+<img src="https://metrics.lecoq.io/liexiangrui?template=classic&repositories.affiliations=%22%22&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&followup=1&discussions=1&followup.sections=user&config.timezone=Asia%2FShanghai" alt="Metrics" width="100%">
 
-## ✍️ License 使用许可
+
+## License 使用许可
 
 这个维基采用了和维基百科相同的创作公用协议：CC BY-SA 4.0。本许可协议为“自由文化作品（Free Cultural Works）”所接受。
 
