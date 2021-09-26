@@ -63,22 +63,20 @@
 
 ## Getting Started 开始行动
 
-**我们正在建立一个小小的独立公共数据库，其技术和内容都是开源的。** 不同于有技术门槛的开源软件，在这里，不是开发者的每个人都可以直接贡献一个活动的指南（就像软件的源代码），每个人也都可以直接实践这个活动（就像软件的编译和执行）。
+**我们正在建立一个小小的独立公共数据库，在全球最大的开源平台GitHub。** 不同于有技术门槛的开源软件，在这里，不是开发者的每个人都可以直接贡献一个活动的指南（就像软件的源代码），每个人也都可以直接实践这个活动（就像软件的编译和执行）。
 
-**它的形式是一个维基，维基的每个条目是一个diy指南：各领域的实践活动的指南**：diy一场声音实验、diy一种社区货币、diy一场邻里茶话会、diy一个家庭、diy一个主题读书会……一些原本不被diy的东东可以在这里被diy，一些原本不开源的东东可以在这里开源。
+维基的每个条目（Issue）是一个diy指南：各领域的实践活动的指南：diy一场声音实验、diy一种社区货币、diy一场邻里茶话会、diy一个家庭、diy一个主题读书会……一些原本不被diy的东东可以在这里被diy，一些原本不开源的东东可以在这里开源。一步步来参与可能是你人生的第一个开源项目吧！
 
-一步步来参与可能是你人生的第一个开源项目吧！
-
-1. 阅读 [**条目 Issues**](https://github.com/diylove/wiki/issues) 
+1. 阅读 [**条目 Issues**](https://github.com/diylove/wiki/issues)  🟢 [Open 草稿](https://github.com/diylove/wiki/issues?q=is%3Aissue+is%3Aopen) 🔴 [Closed 成稿](https://github.com/diylove/wiki/issues?q=is%3Aissue+is%3Aclosed)
 
 2. 注册GitHub账号并通过邮件验证后，你可以
     - [x] 贡献指南：发布新Issue
     - [x] 实践一个指南后：回复这个Issue来用图文展示你的实践
-    - [x] 标记一个指南的状态：🟢 [Open 草稿](https://github.com/diylove/wiki/issues?q=is%3Aissue+is%3Aopen) 🔴 [Closed 成稿](https://github.com/diylove/wiki/issues?q=is%3Aissue+is%3Aclosed)
-    - [x] 点击右上角的Watch来得到新Issue的提醒
-    - [x] 点击右上角的Fork来复制整个维基
+    - [x] 点击右上角的Watch来得到新Issue的提醒 ⏰
 3. [成为这个维基的正式成员](https://github.com/diylove/wiki/blob/main/CONTRIBUTING.md)，你可以
     - [x] 在团队的内部Discussion讨论区发起工作提议，回复来认领工作
+    - [x] 自己编辑Issue或分配给其它成员编辑（Assignee），完成后Close Issue 🔴
+    - [x] 通过@一个成员或一个团队让其它人收到提醒 ⏰
     - [x] 新建和参与 [**项目 Project**](https://github.com/diylove/wiki/projects)
     - [x] 新建和使用 [**标签 Label**](https://github.com/diylove/wiki/labels)
 
@@ -93,7 +91,7 @@
 
 **目前的方案：**
 
-1. 网络层面，数据存储在全球最大的开源平台GitHub **🔗**，在全球多地的数据中心有多份副本。同时有另外两处独立非营利组织托管的定期手动存档：[Internet Archive](https://web.archive.org/web/*/https://github.com/diylove/wiki/issues/) **🔗** 和 [Software Heritage](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/diylove/wiki) **🔗**（加入了GitHub Archive Program，意味着几年后它会以五百年寿命的介质存储在北极……）。之后可能会考虑上区块链。
+1. 网络层面，数据存储在GitHub **🔗**，在全球多地的数据中心有多份副本。同时有另外两处独立非营利组织托管的定期手动存档：[Internet Archive](https://web.archive.org/web/*/https://github.com/diylove/wiki/issues/) **🔗** 和 [Software Heritage](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/diylove/wiki) **🔗**（加入了GitHub Archive Program，意味着几年后它会以五百年寿命的介质存储在北极……）。之后可能会考虑上区块链。
 2. 本地层面，任何人都可以随时随地地
     - 下载整个维基（或其中任意条目）
     - 持续同步整个维基最新版本到本地设备
@@ -119,10 +117,10 @@
 
 ## Contributors 贡献者
 
-
-<img src="https://ghchart.rshah.org/2jojo" alt="2016rshah's Github chart" />[@jojo](https://github.com/pfdborges)
-<img src="https://ghchart.rshah.org/Jesse-zj" alt="2016rshah's Github chart" />[@Jesse-zj](https://github.com/Jesse-zj)
-<img src="https://ghchart.rshah.org/haodonghhkj" alt="2016rshah's Github chart" />[@haodonghhkj](https://github.com/haodonghhkj)
+<img src="https://ghchart.rshah.org/2jojo"/>[@jojo](https://github.com/2jojo)
+<img src="https://ghchart.rshah.org/Jesse-zj"/>[@Jesse-zj](https://github.com/Jesse-zj)
+<img src="https://ghchart.rshah.org/haodonghhkj"/>[@haodonghhkj](https://github.com/haodonghhkj)
+<img src="https://ghchart.rshah.org/liexiangrui"/>[@liexiangrui](https://github.com/liexiangrui)
 
 
 ## License 使用许可
