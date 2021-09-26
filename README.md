@@ -119,15 +119,10 @@
 
 ## Contributors 贡献者
 
-<img src="https://metrics.lecoq.io/Bettermanhl?template=classic&repositories.affiliations=%22%22&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&followup=1&discussions=1&followup.sections=user&config.timezone=Asia%2FShanghai" alt="Metrics" width="100%">
 
-<img src="https://metrics.lecoq.io/haodonghhkj?template=classic&repositories.affiliations=%22%22&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&followup=1&discussions=1&followup.sections=user&config.timezone=Asia%2FShanghai" alt="Metrics" width="100%">
-
-<img src="https://metrics.lecoq.io/2jojo?template=classic&repositories.affiliations=%22%22&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&followup=1&discussions=1&followup.sections=user&config.timezone=Asia%2FShanghai" alt="Metrics" width="100%">
-
-<img src="https://metrics.lecoq.io/liexiangrui?template=classic&repositories.affiliations=%22%22&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&followup=1&discussions=1&followup.sections=user&config.timezone=Asia%2FShanghai" alt="Metrics" width="100%">
-
-<img src="https://metrics.lecoq.io/Jesse-zj?template=classic&repositories.affiliations=%22%22&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&followup=1&discussions=1&followup.sections=user&config.timezone=Asia%2FShanghai" alt="Metrics" width="100%">
+<img src="https://ghchart.rshah.org/2jojo" alt="2016rshah's Github chart" />[@jojo](https://github.com/pfdborges)
+<img src="https://ghchart.rshah.org/Jesse-zj" alt="2016rshah's Github chart" />[@Jesse-zj](https://github.com/Jesse-zj)
+<img src="https://ghchart.rshah.org/haodonghhkj" alt="2016rshah's Github chart" />[@haodonghhkj](https://github.com/haodonghhkj)
 
 
 ## License 使用许可
