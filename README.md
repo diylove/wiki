@@ -1,11 +1,11 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=diylove.wiki)
 
-> 斯蒂格勒坚信，手上打磨什么工具，就会得到什么未来。未来是社会雕塑的结果，是我们的作品。这是人人真正的工作和作品 —— 发明工作，像艺术家那样做艺术品改造工作环境，进而改造社会。……阿伦特《人的条件》说：“现代人缺失的正是劳动的公共性。” 在公共性里，我才生产我自己，因而生产我要的社会。没得到这样劳动经验的人，是奴隶。<sup>[1]</sup>
-
 ## Background 背景 
 
-<details><summary> 💔 & ❤️</summary>
+<details><summary></summary>
 
+"斯蒂格勒坚信，手上打磨什么工具，就会得到什么未来。未来是社会雕塑的结果，是我们的作品。这是人人真正的工作和作品 —— 发明工作，像艺术家那样做艺术品改造工作环境，进而改造社会。……阿伦特《人的条件》说：“现代人缺失的正是劳动的公共性。” 在公共性里，我才生产我自己，因而生产我要的社会。没得到这样劳动经验的人，是奴隶。" <sup>[1]</sup>
+    
 开源世界依旧活跃，但是开源的初衷是为了每个人都普遍通过技术受益。开源世界依旧聚焦于让开发者受益，而不顾及全世界其它人是否能够受益。这是个问题。开发者知道，从安卓到服务器IT最底层常常都是开源软件，但是对于开发者之外的所有人、开发者之外的各种社区和社群，开源依旧距离遥远。开源地写底层软件是一项高尚的事业，但是这些东西没有直接连接到数据库、知识库、图书馆……<sup>[2]</sup>
 
 结果是什么？所有人都用微信、抖音、滴滴、小红书等等，它们则都是黑箱作业的，我们的数据和内容、我们的生活隐私和思考表达，被权力和资本通过算法拥有、控制、变现——你的云盘上私人照片不知不觉被陌生人偷窥和分析、你写的一篇毫不敏感的豆瓣日记会莫名其妙地消失 **🗃️**、你在朋友圈发的文字你自己却不能下载存储 **🗃️**、你读到的公众号（除了服务号）文章被禁止使用对外超链接 🔗、你熬夜创作的成果发布出来为大资本无偿贡献优质内容 💰……比底层软件更直接地影响到每个人的生活的，在数据库层面。
@@ -20,13 +20,38 @@
 - [Local Wiki](https://www.notion.so/diylove/localwiki.org)：本地邻里和在地知识的英文维基，以城市和邻里为单位
 - [Civic Tech Field Guide](https://civictech.guide/) 公民科技大黄页
 
+    
+
+---
+
+[1]. 摘自基于陆兴华原文的《为什么工作有待发明？》，作者：serious：
+[https://www.douban.com/note/761861211/](https://www.douban.com/note/761861211/)
+
+[2]. 受启发于forem团队的wen z，感谢askender的修改建议：
+[https://www.forem.com/future/](https://www.forem.com/future/)
+
+
+    
 </details>
 
-## Introduction 这个维基的介绍
+## Getting Started 开始行动
 
-**我们正在建立一个小小的独立公共数据库，其技术和内容都是开源的。** 不同于有技术门槛的开源软件，在这里，不是开发者的每个人都可以直接贡献一个活动的指南（source code），每个人也都可以直接实践这个活动（deploy/execute）。
+**我们正在建立一个小小的独立公共数据库，其技术和内容都是开源的。** 不同于有技术门槛的开源软件，在这里，不是开发者的每个人都可以直接贡献一个活动的指南（就像软件的源代码），每个人也都可以直接实践这个活动（就像软件的编译和执行）。
 
 **它的形式是一个维基，维基的每个条目是一个diy指南：各领域的实践活动的指南**：diy一场声音实验、diy一种社区货币、diy一场邻里茶话会、diy一个家庭、diy一个主题读书会……一些原本不被diy的东东可以在这里被diy，一些原本不开源的东东可以在这里开源。
+
+在上侧栏目，你可以点击
+- **Code**：阅读介绍
+- [**Issues**](https://github.com/diylove/wiki/issues)：阅读和提交diy指南，每个Issue是一条指南
+    - [🔴 Closed](https://github.com/diylove/wiki/issues?q=is%3Aissue+is%3Aclosed)：成稿
+    - [🟢 Open](https://github.com/diylove/wiki/issues?q=is%3Aissue+is%3Aopen)：草稿 
+- [**Discussion**](https://github.com/diylove/wiki/discussions)：
+- **Project**
+
+在Issues里面，我们会用到：
+- **Labels**：
+- **Miletone**
+- **Assignee**
 
 
 ## Features 这个维基的功能
@@ -110,13 +135,3 @@
 ## License 使用许可
 
 这个维基采用了和维基百科相同的创作公用协议：CC BY-SA 4.0。本许可协议为“自由文化作品（Free Cultural Works）”所接受。
-
-
----
-
-[1]. 摘自基于陆兴华原文的《为什么工作有待发明？》，作者：serious：
-[https://www.douban.com/note/761861211/](https://www.douban.com/note/761861211/)
-
-[2]. 受启发于forem团队的wen z，感谢askender的修改建议：
-[https://www.forem.com/future/](https://www.forem.com/future/)
-
