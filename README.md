@@ -79,11 +79,16 @@
 - [ ] 在 Discussion 区回复自己或别人的帖子来项目组队（组队完成后请点击 Mark as answer）
 
 2. 成为这个维基的正式成员后，你就可以
-
+- [ ] 在 Issue 区编辑一个指南所属的 Project，可以属于多个 Project。
+- [ ] 在 Issue 区编辑一个指南的[标签 Label](https://github.com/diylove/wiki/labels)，可有有多个 Label。
 - [ ] 在 Issue 区编辑指南成终稿 🔴：自己编辑或分配给其它成员编辑，被分配者为 Assignee。编辑完成后请点击 Close Issue。
-- [ ] 在 Issue 区新建和使用 [标签 Label](https://github.com/diylove/wiki/labels)
 - [ ] 在 Discussion 区发帖时@一个成员或一个团队让其它人收到提醒：✏️ 文字类@diylove/writer 🔧 技术类@diylove/hacker 👬 社群类@diylove/admin
-- [ ] 组队完成后在 Project 区新建项目，记录项目进度（Project Template选择Automated kanban，即可自动关联草稿 🟢 和终稿 🔴 分别到 To Do 和 Done 的列表中）
+- [ ] 组队完成后在 Project 区新建项目，记录项目进度（Project Template选择Automated kanban，即可自动关联草稿 🟢 和终稿 🔴 分别到 To Do 和 Done 的列表中）。
+
+[项目（Project）](https://github.com/diylove/wiki/projects)：条目是零碎的，而项目是一个条目的集合。每个项目有一个负责人，每个项目是独立的，自行决策、分工、行动。
+- 👬 项目可以是一个人，可以属于另外一个机构或社群，可以自行招募组成一个新的线上小组（像一个字幕组）……
+- 🌱 项目可以通过采访、采编、节选、编译、征稿等方式成长。如果需要，可以单独弄个自媒体如公众号、一个邮件剪报 Newsletter、一本小册子、一个卡片盒、乃至一个课程系列等等。
+- 💰 维基本身是非盈利性的，类似于维基百科。而项目的资金模式是完全独立的，比如你可以发起众筹、可以做成小出版物销售、可以做成独立的自媒体等等来帮助自身项目的持续发展。因为我们采用CC BY-SA 4.0协议，意味着在遵循许可前提下也可以商用，就像你可以把维基百科或世界名著公版书做成书自己卖。
 
 
 ## Features 特点
