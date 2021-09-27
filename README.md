@@ -129,11 +129,13 @@
 
 </details>
 
-## Contributors 贡献者
+## Issues Contributors 指南贡献者
 
+<img src="https://ghchart.rshah.org/haodonghhkj"/>[@haodonghhkj](https://github.com/haodonghhkj)
+<img src="https://ghchart.rshah.org/Bettermanhl"/>[@Bettermanhl](https://github.com/Bettermanhl)
+<img src="https://ghchart.rshah.org/usx1999"/>[@usx1999](https://github.com/usx1999)
 <img src="https://ghchart.rshah.org/2jojo"/>[@jojo](https://github.com/2jojo)
 <img src="https://ghchart.rshah.org/Jesse-zj"/>[@Jesse-zj](https://github.com/Jesse-zj)
-<img src="https://ghchart.rshah.org/haodonghhkj"/>[@haodonghhkj](https://github.com/haodonghhkj)
 <img src="https://ghchart.rshah.org/liexiangrui"/>[@liexiangrui](https://github.com/liexiangrui)
 
 
