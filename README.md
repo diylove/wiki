@@ -83,7 +83,7 @@
 - [ ] 在 Issue 区跟帖讨论，或者实践指南后跟帖图文展示交流你的经历
 - [ ] 在 Discussion 区发帖来发起一个项目，回复别人的帖子来参与项目（组队完成后请点击 Mark as answer）
 
-3. 成为这个维基的 Organization 正式成员后，你就可以
+3. 当你活跃参与 Issue 和 Discussion 后，维护者会邀请你成为这个维基的 Organization 正式成员。之后，你就可以
 - [ ] 在 Issue 区编辑一个指南所属的 Project，可以属于多个 Project。条目是零碎的，而项目是一系列条目的集合
 - [ ] 在 Issue 区编辑一个指南的 Label，可有有多个 Label。
 - [ ] 在 Issue 区编辑指南成终稿 🔴：自己编辑或分配给其它成员编辑，被分配者为 Assignee。编辑完成后请点击 Close Issue。
