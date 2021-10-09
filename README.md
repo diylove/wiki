@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=diylove.wiki)
+*INCUBATED BY 706*
 
 ## Background 背景 
 
@@ -146,3 +146,5 @@
 ## License 使用许可
 
 这个维基采用了和维基百科相同的创作公用协议：CC BY-SA 4.0。本许可协议为“自由文化作品（Free Cultural Works）”所接受。
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=diylove.wiki) 
