@@ -54,7 +54,6 @@
 * ![](https://img.shields.io/badge/活动指南-diy热身-C2E0C6)
 * ![](https://img.shields.io/badge/活动指南-diy照顾👨‍🍼-C2E0C6)
 * ![](https://img.shields.io/badge/活动指南-diy辩论🗣️-C2E0C6)
-* ![](https://img.shields.io/badge/测试label-fef2c0)
 * ![](https://img.shields.io/badge/物的指南-diy墙-C5DEF5)
 * ![](https://img.shields.io/badge/物的指南-diy屏幕🖥📱-C5DEF5)
 * ![](https://img.shields.io/badge/物的指南-diy床🛏️-C5DEF5)
