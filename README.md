@@ -6,7 +6,7 @@
 
 "斯蒂格勒坚信，手上打磨什么工具，就会得到什么未来。未来是社会雕塑的结果，是我们的作品。这是人人真正的工作和作品 —— 发明工作，像艺术家那样做艺术品改造工作环境，进而改造社会。……阿伦特《人的条件》说：“现代人缺失的正是劳动的公共性。” 在公共性里，我才生产我自己，因而生产我要的社会。没得到这样劳动经验的人，是奴隶。" <sup>[1]</sup>
     
-开源世界依旧活跃，但是开源的初衷是为了每个人都普遍通过技术受益。开源世界依旧聚焦于让开发者受益，而不顾及全世界其它人是否能够受益。这是个问题。开发者知道，从安卓到服务器IT最底层常常都是开源软件，但是对于开发者之外的所有人、开发者之外的各种社区和社群，开源依旧距离遥远。开源地写底层软件是一项高尚的事业，但是这些东西没有直接连接到数据库、知识库、图书馆……<sup>[2]</sup>
+开源世界活跃，但是开源的初衷是为了每个人都普遍通过技术受益。开源世界依旧聚焦于让开发者受益，而不顾及全世界其它人是否能够受益。这是个问题。开发者知道，从安卓到服务器IT最底层常常都是开源软件，但是对于开发者之外的所有人、开发者之外的各种社区和社群，开源依旧距离遥远。开源地写底层软件是一项高尚的事业，但是这些东西没有直接连接到数据库、知识库、图书馆……<sup>[2]</sup>
 
 结果是什么？所有人都用微信、抖音、滴滴、小红书等等，它们则都是黑箱作业的，我们的数据和内容、我们的生活隐私和思考表达，被权力和资本通过算法拥有、控制、变现——你的云盘上私人照片不知不觉被陌生人偷窥和分析、你写的一篇毫不敏感的豆瓣日记会莫名其妙地消失 **🗃️**、你在朋友圈发的文字你自己却不能下载存储 **🗃️**、你读到的公众号（除了服务号）文章被禁止使用对外超链接 🔗、你熬夜创作的成果发布出来为大资本无偿贡献优质内容 💰……比底层软件更直接地影响到每个人的生活的，在数据库层面。
 
@@ -37,7 +37,7 @@
     
 </details>
 
-## Usage 使用场景
+## Usage 使用
 
 <details><summary>展开</summary>
     
@@ -63,27 +63,23 @@
 
 ## Getting Started 开始
 
-我们正在建立一个独立的公共数据库，在全球最大的开源平台GitHub。类似维基百科，在GitHub上，全球各地的陌生人自由自主地贡献于不同的开源工作：大到安卓之类的操作系统、小到一个合并pdf的免费工具…… 上千万GitHub用户在平常的赚钱和花钱之外，通过参与开源项目发明自己的工作、交到新的朋友、创作自己的作品、学习和练习新的技能，从而为社会创造新的公共空间和改变、也不断地创造新的自己的价值。不太了解什么是开源？[看这里](https://github.com/diylove/wiki/issues/27)
-
-不同于有技术门槛的开源软件，在diy💔，不是开发者的每个人都可以贡献实践的指南（像软件的源代码），每个人也都可以使用指南来实践（像软件的部署和执行）。
-
-每个 Issues 是一个diy指南：各领域的实践活动的指南：diy一场声音实验、diy一种社区货币、diy一场邻里茶话会、diy一个家庭、diy一个主题读书会……一些原本不被diy的东东可以在这里被diy，一些原本不开源的东东可以在这里开源。一步步来参与可能是你人生的第一个开源项目吧！
+不太了解什么是开源？[看这里](https://github.com/diylove/wiki/issues/27)
 
 
 1. 阅读，上侧栏目分为：
 - **Code** 介绍 
 - **Issue** 指南库 （🟢 [Open 草稿](https://github.com/diylove/wiki/issues?q=is%3Aissue+is%3Aopen) 🔴 [Closed 成稿](https://github.com/diylove/wiki/issues?q=is%3Aissue+is%3Aclosed)） 
 - **Discussion** 发起项目和讨论
-- **Project** 已发起项目的进度看板
 
+2. 想成为diy💔的贡献者？注册 GitHub 账号开始在 Issues 和 Discussion 中发帖和回帖吧
 
-2. 注册 GitHub 账号后，你就可以：
+注册 GitHub 账号后，你就可以：
 - [ ] 关注 Watch（右上角按钮）来收到新动态的推送（推荐[开启邮件提醒](https://github.com/settings/notifications)）
 - [ ] 在 Issue 区发布新指南的草稿 🟢
 - [ ] 在 Issue 区跟帖讨论，或者实践指南后跟帖图文展示交流你的经历
 - [ ] 在 Discussion 区发帖来发起一个项目，回复别人的帖子来参与项目（组队完成后请点击 Mark as answer）
 
-3. 当你活跃参与 Issue 和 Discussion 后，维护者会邀请你成为这个维基的 Organization 正式成员。之后，你就可以
+3. 想成为diy💔的维护者？当你活跃参与 Issue 和 Discussion 后，维护者会邀请你成为这个维基的 Organization 正式成员。之后，你就可以
 - [ ] 在 Issue 区编辑一个指南所属的 Project，可以属于多个 Project。条目是零碎的，而项目是一系列条目的集合
 - [ ] 在 Issue 区编辑一个指南的 Label，可有有多个 Label。
 - [ ] 在 Issue 区编辑指南成终稿 🔴：自己编辑或分配给其它成员编辑，被分配者为 Assignee。编辑完成后请点击 Close Issue。
@@ -131,20 +127,8 @@
 
 </details>
 
-## Issues Contributors 指南贡献者
-
-<img src="https://ghchart.rshah.org/AMOS091"/>[@AMOS091](https://github.com/AMOS091)
-<img src="https://ghchart.rshah.org/haodonghhkj"/>[@haodonghhkj](https://github.com/haodonghhkj)
-<img src="https://ghchart.rshah.org/Bettermanhl"/>[@Bettermanhl](https://github.com/Bettermanhl)
-<img src="https://ghchart.rshah.org/usx1999"/>[@usx1999](https://github.com/usx1999)
-<img src="https://ghchart.rshah.org/2jojo"/>[@jojo](https://github.com/2jojo)
-<img src="https://ghchart.rshah.org/Jesse-zj"/>[@Jesse-zj](https://github.com/Jesse-zj)
-<img src="https://ghchart.rshah.org/liexiangrui"/>[@liexiangrui](https://github.com/liexiangrui)
-
-
-
 ## License 使用许可
 
-这个维基采用了和维基百科相同的创作公用协议：CC BY-SA 4.0。本许可协议为“自由文化作品（Free Cultural Works）”所接受。
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=diylove.wiki) 
+
+📧 联系：diylovewiki@pm.me
