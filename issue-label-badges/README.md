@@ -75,7 +75,7 @@
 * ![](https://img.shields.io/badge/经济指南-diy一种礼物经济🎁-fcd727)
 * ![](https://img.shields.io/badge/经济指南-diy一种自给自足-fcd727)
 * ![](https://img.shields.io/badge/经济指南-diy一种货币经济🪙-fcd727)
-* ![](https://img.shields.io/badge/艺术指南-diy实验写作✍🏻️-FEF2C0)
+* ![](https://img.shields.io/badge/艺术指南-diy实验写作✍🏻️-fff769)
 * ![](https://img.shields.io/badge/艺术指南-diy实验声音🎵-FEF2C0)
 * ![](https://img.shields.io/badge/艺术指南-diy实验小说-FEF2C0)
 * ![](https://img.shields.io/badge/艺术指南-diy实验戏剧🎭-FEF2C0)
