@@ -33,6 +33,7 @@
 * ![](https://img.shields.io/badge/感官指南-diy一种瞬间感🕞-9846a9)
 * ![](https://img.shields.io/badge/感官指南-diy一种笑的方式😄-9846a9)
 * ![](https://img.shields.io/badge/感官指南-diy用身体思考🤔-9846a9)
+* ![](https://img.shields.io/badge/手工指南-diy一个猫咪捕获器-23C1C0)
 * ![](https://img.shields.io/badge/政治指南-diy一种引导-93db8f)
 * ![](https://img.shields.io/badge/政治指南-diy一种惰性共识-93db8f)
 * ![](https://img.shields.io/badge/政治指南-diy一种投票-93db8f)
