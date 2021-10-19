@@ -1,3 +1,16 @@
+定位
+
+✅ 跨领域的线上小社群
+
+✅ 共同地学习，公共地学习（Learn together, learn in public）
+
+✅ 指南胜于雄辩 (Talk is cheap, show me the diy guide)
+
+❌ 靠一个人的毅力和才华（如个人博客、作品集、数字花园）
+
+❌ 宽泛的客观知识（如百度百科、维基百科）
+
+
 
 注册 GitHub 账号后，你就可以：
 - [ ] 关注 Watch（右上角按钮）来收到新动态的推送（推荐[开启邮件提醒](https://github.com/settings/notifications)）
