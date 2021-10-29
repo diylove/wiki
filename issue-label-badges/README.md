@@ -89,6 +89,7 @@
 * ![](https://img.shields.io/badge/艺术指南-diy实验绘画🎨-fffa96)
 * ![](https://img.shields.io/badge/艺术指南-diy实验舞蹈💃-fffa96)
 * ![](https://img.shields.io/badge/艺术指南-diy歌曲🎤-fffa96)
+* ![](https://img.shields.io/badge/艺术指南-diy电影🎬-7838A2)
 * ![](https://img.shields.io/badge/艺术指南-diy行为艺术🕴-fffa96)
 * ![](https://img.shields.io/badge/艺术指南-diy诵读🗣️-fffa96)
 * ![](https://img.shields.io/badge/艺术指南-diy雕塑🗿-fffa96)
