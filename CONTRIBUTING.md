@@ -21,9 +21,9 @@
 成为这个开源组织成员之后，你就可以
 - [ ] 在 Issue 区编辑一个指南所属的 Project，可以属于多个 Project。条目是零碎的，而项目是一系列条目的集合
 - [ ] 在 Issue 区编辑一个指南的 Label，可有有多个 Label。
-- [ ] 在 Issue 区编辑指南成终稿 🔴：自己编辑或分配给其它成员编辑，被分配者为 Assignee。编辑完成后请点击 Close Issue。
+- [ ] 在 Issue 区编辑指南成终稿 🟣：自己编辑或分配给其它成员编辑，被分配者为 Assignee。编辑完成后请点击 Close Issue。
 - [ ] 在 Discussion 区发帖时@一个成员或一个团队让其它人收到提醒：✏️ 文字类@diylove/writer 🔧 技术类@diylove/hacker 👬 社群类@diylove/admin
-- [ ] 组队完成后在 Project 区新建项目，记录项目进度（Project Template选择Automated kanban，即可自动关联草稿 🟢 和终稿 🔴 分别到 To Do 和 Done 的列表中）。
+- [ ] 组队完成后在 Project 区新建项目，记录项目进度（Project Template选择Automated kanban，即可自动关联草稿 🟢 和终稿 🟣 分别到 To Do 和 Done 的列表中）。
 
 成员可以有自己负责的 Project。每个项目有一个负责人，每个项目是独立的，自行决策、分工、行动。
 - 👬 项目可以是一个人，可以属于另外一个机构或社群，可以发帖在我们的成员中招募……
