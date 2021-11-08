@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=diylove.wiki)  [![GitHub issues](https://badgen.net/github/issues/diylove/wiki/)](https://GitHub.com/diylove/wiki/issues/) ![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
+
 *INCUBATED BY 706*
 
 ## Background 背景 
@@ -124,6 +126,4 @@ GitHub 上大部分项目是面向开发者的有技术门槛的开源软件，�
 - [CONTRIBUTING 社群贡献指导](https://github.com/diylove/wiki/blob/main/CONTRIBUTING.md)
 
 📧 联系：diylovewiki@pm.me
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=diylove.wiki) 
 
