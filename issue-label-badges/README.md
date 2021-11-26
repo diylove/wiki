@@ -32,6 +32,7 @@
 * ![](https://img.shields.io/badge/感官指南-diy一种看的方式👁-9846a9)
 * ![](https://img.shields.io/badge/感官指南-diy一种瞬间感🕞-9846a9)
 * ![](https://img.shields.io/badge/感官指南-diy一种笑的方式😄-9846a9)
+* ![](https://img.shields.io/badge/感官指南-diy一种阳光感☀️-C33772)
 * ![](https://img.shields.io/badge/感官指南-diy用身体思考🤔-9846a9)
 * ![](https://img.shields.io/badge/成员实践-609353)
 * ![](https://img.shields.io/badge/政治指南-diy一种和解-1070D4)
