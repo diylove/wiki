@@ -29,6 +29,7 @@
 * ![](https://img.shields.io/badge/感官指南-diy一种味道👃-9846a9)
 * ![](https://img.shields.io/badge/感官指南-diy一种多余的身体功能-9846a9)
 * ![](https://img.shields.io/badge/感官指南-diy一种尴尬😬-9846a9)
+* ![](https://img.shields.io/badge/感官指南-diy一种平静-5A54D9)
 * ![](https://img.shields.io/badge/感官指南-diy一种忍耐🕞-9846a9)
 * ![](https://img.shields.io/badge/感官指南-diy一种怀旧感🕞-9846a9)
 * ![](https://img.shields.io/badge/感官指南-diy一种沉默🙊-9846a9)
