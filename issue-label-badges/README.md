@@ -69,7 +69,6 @@
 * ![](https://img.shields.io/badge/活动指南-diy辩论🗣️-0E8A16)
 * ![](https://img.shields.io/badge/物的指南-diy墙-C5DEF5)
 * ![](https://img.shields.io/badge/物的指南-diy容器-C5DEF5)
-* ![](https://img.shields.io/badge/物的指南-diy屏幕🖥📱-C5DEF5)
 * ![](https://img.shields.io/badge/物的指南-diy床🛏️-C5DEF5)
 * ![](https://img.shields.io/badge/物的指南-diy服装-6B3684)
 * ![](https://img.shields.io/badge/物的指南-diy纸📜-C5DEF5)
