@@ -60,6 +60,7 @@
 * ![](https://img.shields.io/badge/活动指南-diy游戏🎳-0E8A16)
 * ![](https://img.shields.io/badge/活动指南-diy热身-0E8A16)
 * ![](https://img.shields.io/badge/活动指南-diy照顾👨‍🍼-0E8A16)
+* ![](https://img.shields.io/badge/活动指南-diy讲故事-D3C5E6)
 * ![](https://img.shields.io/badge/活动指南-diy辩论🗣️-0E8A16)
 * ![](https://img.shields.io/badge/物的指南-diy墙-C5DEF5)
 * ![](https://img.shields.io/badge/物的指南-diy容器-C5DEF5)
