@@ -23,6 +23,7 @@
 * ![](https://img.shields.io/badge/学科指南-diy哲学思辨-da6bda)
 * ![](https://img.shields.io/badge/学科指南-diy数学计算-da6bda)
 * ![](https://img.shields.io/badge/感官指南-diy一种交媾-9846a9)
+* ![](https://img.shields.io/badge/感官指南-diy一种发愤图强-C94566)
 * ![](https://img.shields.io/badge/感官指南-diy一种听的方式👂-9846a9)
 * ![](https://img.shields.io/badge/感官指南-diy一种味道👃-9846a9)
 * ![](https://img.shields.io/badge/感官指南-diy一种多余的身体功能-9846a9)
