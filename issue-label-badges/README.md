@@ -83,6 +83,7 @@
 * ![](https://img.shields.io/badge/空间指南-diy山野⛰️-fe7d55)
 * ![](https://img.shields.io/badge/空间指南-diy工地🚧-fe7d55)
 * ![](https://img.shields.io/badge/空间指南-diy法院👩‍⚖️-fe7d55)
+* ![](https://img.shields.io/badge/空间指南-diy线上公共空间-24780F)
 * ![](https://img.shields.io/badge/空间指南-diy街道👮‍♂️-fe7d55)
 * ![](https://img.shields.io/badge/经济指南-diy一个超低成本的创作-fcd727)
 * ![](https://img.shields.io/badge/经济指南-diy一次省钱-fcd727)
