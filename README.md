@@ -12,29 +12,7 @@
 
 结果是什么？所有人都用微信、抖音、滴滴、小红书等等，它们则都是黑箱作业的，我们的数据和内容、我们的生活隐私和思考表达，被权力和资本通过算法拥有、控制、变现——你的云盘上私人照片不知不觉被陌生人偷窥和分析、你写的一篇毫不敏感的豆瓣日记会莫名其妙地消失 **🗃️**、你在朋友圈发的文字你自己却不能下载存储 **🗃️**、你读到的公众号（除了服务号）文章被禁止使用对外超链接 🔗、你熬夜创作的成果发布出来为大资本无偿贡献优质内容 💰……比底层软件更直接地影响到每个人的生活的，在数据库层面。
 
-理想的社会中，应有更多各种各样的数据库层面的开源项目，鼓励个人和社群拥有自己的数据和符合原初互联网精神的相互链接 🔗。以下维基也许会给我们带来启发：
-
-**每个条目是一个社会议题，里面有丰富的相关学习资料**
-- [云游 Co-Lib](https://www.notion.so/Co-Lib-1b8f05553a804b16bff149361cffe017)：“人人都能读懂社会议题，人人都为社会创新打call。”（由社会企业 “无奇不游” 发起）
-
-**每个条目是一次实践项目的组队，内容是项目概况、需求、进度等** 
-- [行动村](http://actionvillager.com/) “一个有教无类的行动学习平台，众包式地孵化社会性的社群、超级个体和解决方案”（由原心教育 Upbeing 发起）
-
-**其它各种主题的维基**   
-- [萌娘百科](http://zh.moegirl.org.cn/)：“万物皆可萌”
-- [集智百科](https://wiki.swarma.org/)：“国内最早的研究人工智能、复杂系统的科学社区”
-- [PublicLab](http://publiclab.org/)：开源DIY硬件工具和环保行动的维基社群
-- [Local Wiki](https://www.notion.so/diylove/localwiki.org)：本地邻里和在地知识的英文维基，以城市和邻里为单位
-- [Civic Tech Field Guide](https://civictech.guide/) 公民科技大黄页
-
----
-
-[1]. 摘自基于陆兴华原文的《为什么工作有待发明？》，作者：serious：
-[https://www.douban.com/note/761861211/](https://www.douban.com/note/761861211/)
-
-[2]. 受启发于forem团队的wen z，感谢askender的修改建议：
-[https://www.forem.com/future/](https://www.forem.com/future/)
-
+理想的社会中，应有更多各种各样的数据库层面的开源项目，鼓励个人和社群拥有自己的数据和符合原初互联网精神的相互链接 🔗。
 
     
 </details>
@@ -127,3 +105,10 @@ GitHub 上大部分项目是面向开发者的有技术门槛的开源软件，�
 
 📧 联系：diylovewiki@pm.me
 
+## Acknowledgement 致谢 
+
+[1]. 摘自基于陆兴华原文的《为什么工作有待发明？》，作者：serious：
+[https://www.douban.com/note/761861211/](https://www.douban.com/note/761861211/)
+
+[2]. 受启发于forem团队的wen z，感谢askender的修改建议：
+[https://www.forem.com/future/](https://www.forem.com/future/)
