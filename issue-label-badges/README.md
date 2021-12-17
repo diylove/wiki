@@ -55,6 +55,7 @@
 * ![](https://img.shields.io/badge/政治指南-diy一种金融战武器-93db8f)
 * ![](https://img.shields.io/badge/活动指南-diy一次白日做梦🛏-0E8A16)
 * ![](https://img.shields.io/badge/活动指南-diy一次社会公共事件-0E8A16)
+* ![](https://img.shields.io/badge/活动指南-diy一种没事找事-348852)
 * ![](https://img.shields.io/badge/活动指南-diy一种走🚶‍♀️-0E8A16)
 * ![](https://img.shields.io/badge/活动指南-diy个人表达🗣️-0E8A16)
 * ![](https://img.shields.io/badge/活动指南-diy仪式🕯️-0E8A16)
