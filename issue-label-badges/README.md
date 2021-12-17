@@ -1,4 +1,5 @@
 # Wiki Issue Tags Badges List
+* ![](https://img.shields.io/badge/diy一次演习-6789B4)
 * ![](https://img.shields.io/badge/diy一种媒体-B39D95)
 * ![](https://img.shields.io/badge/diy时间-9ABCDD)
 * ![](https://img.shields.io/badge/SDGs指南-diy优质教育-1D76DB)
