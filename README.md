@@ -44,14 +44,15 @@
 ## diy💔如何开源
 
 - [**Open Source Platform 开源的平台**](https://github.com/diylove/wiki/)
-diy💔使用全球最大的开源平台 GitHub 来建立一个独立的公共数据库，而非封闭平台如微信公众号、石墨等（不过发布环节可以在任何其它平台）。类似于维基百科，在 GitHub 上，全球各地的陌生人自由自主地贡献于不同的开源项目：大到操作系统、小到一个合并PDF小工具…… 上千万的用户在平常的赚钱和花钱之外，通过参与开源项目创作自己的作品、发明自己的业余工作、发起和发现自己社群。
-
+diy💔使用全球最大的开源平台 GitHub 来建立一个独立的公共数据库，而非封闭平台如微信公众号、石墨等（不过发布环节可以在任何平台）。类似于维基百科，在 GitHub 上，全球各地的陌生人自由自主地贡献于不同的开源项目：大到操作系统、小到一个合并PDF小工具…… 上千万的用户在平常的赚钱和花钱之外，通过参与开源项目创作自己的作品、发明自己的业余工作、发起和发现自己社群。
 - [**Open Source Guides 开源的指南库**](https://github.com/diylove/wiki/issues/)
-GitHub 上大部分项目是面向开发者的有技术门槛的开源软件，但在diy💔，每个人都可以贡献实践的指南（像软件的源代码），每个人也都可以使用指南来实践（像软件的部署和执行）。diy💔由一个个实践活动的diy指南组成：diy一场声音实验、diy一种货币、diy一次苏格拉底式对话、diy一个家庭、diy一个主题读书会……一些原本不被diy的东东可以在这里被diy，一些原本不开源的东东可以在这里开源。开始参与你的第一个开源项目吧！
+GitHub 上大部分项目是面向开发者的有技术门槛的开源软件，但在diy💔，每个人都可以贡献实践的指南（源代码），每个人也都可以使用指南来实践（部署/执行）。diy💔由一个个实践活动的diy指南组成：diy一场声音实验、diy一种货币、diy一次苏格拉底式对话、diy一个家庭、diy一个主题读书会……一些原本不被diy的东东可以在这里被diy，一些原本不开源的东东可以在这里开源。开始参与你的第一个开源项目吧！
 - [**Open Source Community 开源社群**](https://github.com/diylove/wiki/issues/94)
 - [**Open Source Themed Workshop 开源指南工作坊**](https://github.com/diylove/wiki/issues/74)
+    - 开源入门系列：以这个项目为例带领小白现场开始参与第一个开源项目，过往活动：上海、杭州、深圳、线上
+    - 创意写作系列
 - [**Open Source Themed Publication 开源主题手帐本**](https://github.com/diylove/wiki/issues/88)
-- [**CC BY-SA 4.0 License 创作公用协议**](https://github.com/diylove/wiki/blob/main/LICENSE.MD)：除额外注明的地方外，内容遵循该协议。这个许可协议被维基百科在内的许多项目采用，并为“自由文化作品（Free Cultural Works）”所接受。
+- [**CC BY-SA 4.0 License 创作公用协议**](https://github.com/diylove/wiki/blob/main/LICENSE.MD)：我们不采用“版权所有 COPYRIGHT”。除额外注明的地方外，这里所有文章和指南内容遵循该协议。这个许可协议被维基百科在内的许多项目采用，并为“自由文化作品（Free Cultural Works）”所接受。
 
 
 ## Getting Started 开始
