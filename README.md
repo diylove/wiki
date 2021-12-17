@@ -58,9 +58,9 @@ GitHub 上大部分项目是面向开发者的有技术门槛的开源软件，�
 ## Getting Started 开始
 
 1. 阅读 [成稿的指南（Closed 🟣）](https://github.com/diylove/wiki/issues?q=is%3Aissue+is%3Aclosed)
-1. 注册 GitHub 账号，开始在上方的 Issues（指南库）和 Discussions （论坛）中发帖和回帖吧
-1. 当你活跃参与 Issue 和 Discussion 后，维护者会邮件邀请你成为这个开源组织的正式成员
-1. 之后，你可以加入或发起自己的独立项目
+1. 注册 GitHub 账号，开始在上方的 Issues（指南库）中发帖和回帖吧
+1. 当你活跃参与 Issue 后，维护者会邀请你成为这个开源组织的正式成员
+1. 之后，你可以加入或发起自己的独立项目，以及参与线上工作坊和线上会议决策
 
 
 
