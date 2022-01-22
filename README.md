@@ -2,6 +2,8 @@
 
 *INCUBATED BY 706*
 
+#learninpublic #buildinpublic #opendata 
+
 ## Background 背景 
 
 <details><summary>展开</summary>
