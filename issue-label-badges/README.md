@@ -25,6 +25,7 @@
 * ![](https://img.shields.io/badge/共同体指南-diy线下社区-FF9DCC)
 * ![](https://img.shields.io/badge/学科指南-diy哲学思辨-da6bda)
 * ![](https://img.shields.io/badge/学科指南-diy数学计算-da6bda)
+* ![](https://img.shields.io/badge/感官指南-diy一种不孤单-739189)
 * ![](https://img.shields.io/badge/感官指南-diy一种交媾-9846a9)
 * ![](https://img.shields.io/badge/感官指南-diy一种压力/焦虑-E4619B)
 * ![](https://img.shields.io/badge/感官指南-diy一种发愤图强-C94566)
