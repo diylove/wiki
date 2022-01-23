@@ -109,7 +109,7 @@
 * ![](https://img.shields.io/badge/艺术指南-diy歌曲🎤-fffa96)
 * ![](https://img.shields.io/badge/艺术指南-diy行为艺术🕴-fffa96)
 * ![](https://img.shields.io/badge/艺术指南-diy诵读🗣️-fffa96)
-* ![](https://img.shields.io/badge/艺术指南-diy雕塑🗿-fffa96)
+* ![](https://img.shields.io/badge/艺术指南-diy雕塑/装置🗿-fffa96)
 * ![](https://img.shields.io/badge/身份指南-diy年龄-90c6e5)
 * ![](https://img.shields.io/badge/身份指南-diy性别🧑‍🦲-90c6e5)
 * ![](https://img.shields.io/badge/身份指南-diy族群-90c6e5)
