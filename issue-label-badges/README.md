@@ -1,5 +1,4 @@
 # Wiki Issue Tags Badges List
-* ![](https://img.shields.io/badge/diy一次演习-6789B4)
 * ![](https://img.shields.io/badge/diy一种媒体-B39D95)
 * ![](https://img.shields.io/badge/diy时间-9ABCDD)
 * ![](https://img.shields.io/badge/SDGs指南-diy优质教育-1D76DB)
@@ -55,6 +54,7 @@
 * ![](https://img.shields.io/badge/政治指南-diy一种逃避统治的艺术-93db8f)
 * ![](https://img.shields.io/badge/政治指南-diy一种选举-93db8f)
 * ![](https://img.shields.io/badge/政治指南-diy一种金融战武器-93db8f)
+* ![](https://img.shields.io/badge/活动指南-diy一次演习-348852)
 * ![](https://img.shields.io/badge/活动指南-diy一次白日做梦🛏-0E8A16)
 * ![](https://img.shields.io/badge/活动指南-diy一次社会公共事件-0E8A16)
 * ![](https://img.shields.io/badge/活动指南-diy一种没事找事-348852)
