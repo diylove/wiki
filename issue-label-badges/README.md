@@ -1,7 +1,6 @@
 # Wiki Issue Tags Badges List
 * ![](https://img.shields.io/badge/diy一次演习-6789B4)
 * ![](https://img.shields.io/badge/diy一种媒体-B39D95)
-* ![](https://img.shields.io/badge/diy室内设计-BF099B)
 * ![](https://img.shields.io/badge/diy时间-9ABCDD)
 * ![](https://img.shields.io/badge/SDGs指南-diy优质教育-1D76DB)
 * ![](https://img.shields.io/badge/SDGs指南-diy体面工作-1D76DB)
@@ -105,8 +104,9 @@
 * ![](https://img.shields.io/badge/艺术指南-diy实验戏剧🎭-fffa96)
 * ![](https://img.shields.io/badge/艺术指南-diy实验绘画🎨-fffa96)
 * ![](https://img.shields.io/badge/艺术指南-diy实验舞蹈💃-fffa96)
+* ![](https://img.shields.io/badge/艺术指南-diy室内设计-fffa96)
+* ![](https://img.shields.io/badge/艺术指南-diy影片🎬-fffa96)
 * ![](https://img.shields.io/badge/艺术指南-diy歌曲🎤-fffa96)
-* ![](https://img.shields.io/badge/艺术指南-diy电影🎬-7838A2)
 * ![](https://img.shields.io/badge/艺术指南-diy行为艺术🕴-fffa96)
 * ![](https://img.shields.io/badge/艺术指南-diy诵读🗣️-fffa96)
 * ![](https://img.shields.io/badge/艺术指南-diy雕塑🗿-fffa96)
