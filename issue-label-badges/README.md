@@ -1,4 +1,5 @@
 # Wiki Issue Tags Badges List
+* ![](https://img.shields.io/badge/diy做一个更好的输家！-13A46B)
 * ![](https://img.shields.io/badge/diy时间-9ABCDD)
 * ![](https://img.shields.io/badge/diy示爱❤️-70D210)
 * ![](https://img.shields.io/badge/diy窘境指南-5526E2)
