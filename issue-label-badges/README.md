@@ -2,6 +2,7 @@
 * ![](https://img.shields.io/badge/diy时间-9ABCDD)
 * ![](https://img.shields.io/badge/diy示爱❤️-70D210)
 * ![](https://img.shields.io/badge/diy窘境指南-5526E2)
+* ![](https://img.shields.io/badge/diy自爱💗-3E27EB)
 * ![](https://img.shields.io/badge/SDGs指南-diy优质教育-1D76DB)
 * ![](https://img.shields.io/badge/SDGs指南-diy体面工作-1D76DB)
 * ![](https://img.shields.io/badge/SDGs指南-diy健康福祉-1D76DB)
