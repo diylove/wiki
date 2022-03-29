@@ -1,9 +1,5 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=diylove.wiki)  [![GitHub issues](https://badgen.net/github/issues/diylove/wiki/)](https://GitHub.com/diylove/wiki/issues/) ![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 
-*INCUBATED BY 706*
-
-#learninpublic #buildinpublic #opendata 
-
 ## Background 背景 
 
 <details><summary>展开</summary>
